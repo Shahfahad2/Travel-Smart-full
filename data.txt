@@ -1,0 +1,204 @@
+[
+  {
+    "id": 101,
+    "name": "Kathmandu, Nepal",
+    "image": "nepal.jpg",
+    "description": "Explore the vibrant culture and stunning Himalayan views of Kathmandu on a budget.",
+    "price": 450,
+    "duration": "4 days",
+    "rating": 4.2,
+    "location": "Nepal",
+    "activities": ["Temple Visits", "Local Markets", "Mountain Views"],
+    "accommodations": ["Budget Hotels", "Guesthouses"],
+    "transport": ["Flight: $200-350", "Taxi: $10/day"],
+    "reviews": [{ "name": "Amit S.", "rating": 4, "comment": "Great value for money!" }],
+    "packageType": "Budget"
+  },
+  {
+    "id": 102,
+    "name": "Goa, India",
+    "image": "india.jpg",
+    "description": "Enjoy sun, sand, and sea in Goa with affordable beach stays and vibrant nightlife.",
+    "price": 390,
+    "duration": "3 days",
+    "rating": 4.0,
+    "location": "India",
+    "activities": ["Beach Parties", "Water Sports", "Local Cuisine"],
+    "accommodations": ["Beach Shacks", "Budget Hotels"],
+    "transport": ["Train: $30", "Scooter Rental: $7/day"],
+    "reviews": [{ "name": "Priya R.", "rating": 4, "comment": "Perfect for a quick getaway!" }],
+    "packageType": "Budget"
+  },
+  {
+    "id": 103,
+    "name": "Istanbul, Turkey",
+    "image": "Turkey.jpg",
+    "description": "Discover the crossroads of Europe and Asia with rich history and delicious food.",
+    "price": 950,
+    "duration": "5 days",
+    "rating": 4.5,
+    "location": "Turkey",
+    "activities": ["Mosque Tours", "Bosphorus Cruise", "Street Food"],
+    "accommodations": ["Boutique Hotels", "Hostels"],
+    "transport": ["Flight: $400-600", "Metro: $2/ride"],
+    "reviews": [{ "name": "Fatima K.", "rating": 5, "comment": "Amazing city and food!" }],
+    "packageType": "Standard"
+  },
+  {
+    "id": 104,
+    "name": "Bangkok, Thailand",
+    "image": "Thailand.jpg",
+    "description": "Vibrant city life, temples, and street food adventures in Bangkok.",
+    "price": 700,
+    "duration": "4 days",
+    "rating": 4.3,
+    "location": "Thailand",
+    "activities": ["Temple Visits", "Night Markets", "River Cruise"],
+    "accommodations": ["Hostels", "Budget Hotels"],
+    "transport": ["Flight: $250-400", "Tuk Tuk: $1-3/ride"],
+    "reviews": [{ "name": "John D.", "rating": 4, "comment": "Loved the food and nightlife!" }],
+    "packageType": "Standard"
+  },
+  {
+    "id": 1,
+    "name": "Bali, Indonesia",
+    "image": "bali.jpg",
+    "description": "Known as the Island of the Gods, Bali offers stunning beaches, vibrant culture, and lush landscapes.",
+    "price": 1200,
+    "duration": "7 days",
+    "rating": 4.7,
+    "location": "Indonesia",
+    "activities": ["Surfing Lessons", "Temple Tours", "Rice Terrace Trekking"],
+    "accommodations": ["Beachfront Villas", "Budget Hostels", "Luxury Resorts"],
+    "transport": ["Flight: $800-1200", "Local Taxi: $10-30/day", "Scooter Rental: $5/day"],
+    "reviews": [
+      { "name": "Sarah J.", "rating": 5, "comment": "The most beautiful place I've ever visited!" },
+      { "name": "Mike T.", "rating": 4, "comment": "Great food and amazing beaches." }
+    ],
+    "packageType": "Premium"
+  },
+  {
+    "id": 2,
+    "name": "Santorini, Greece",
+    "image": "grace.jpg",
+    "description": "Famous for its white-washed buildings and blue domes, Santorini offers breathtaking views.",
+    "price": 1800,
+    "duration": "5 days",
+    "rating": 4.8,
+    "location": "Greece",
+    "activities": ["Wine Tasting Tours", "Boat Tours to Volcano", "Sunset Watching"],
+    "accommodations": ["Cave Hotels", "Luxury Suites", "Traditional Guesthouses"],
+    "transport": ["Flight: $900-1400", "ATV Rental: $25/day", "Local Bus: $2-5/ride"],
+    "reviews": [
+      { "name": "Emily R.", "rating": 5, "comment": "The views are absolutely incredible!" },
+      { "name": "David K.", "rating": 4, "comment": "Beautiful island but can be crowded." }
+    ],
+    "packageType": "Luxury"
+  },
+  {
+    "id": 3,
+    "name": "Kyoto, Japan",
+    "image": "Japan.jpg",
+    "description": "Experience traditional Japan with ancient temples, beautiful gardens, and geisha culture.",
+    "price": 1600,
+    "duration": "6 days",
+    "rating": 4.9,
+    "location": "Japan",
+    "activities": ["Temple Visits", "Tea Ceremony Experience", "Cherry Blossom Viewing"],
+    "accommodations": ["Ryokan (Traditional Inn)", "Business Hotels", "Temple Lodging"],
+    "transport": ["Flight: $1000-1500", "Bullet Train: $120", "Local Bus: $2/ride"],
+    "reviews": [
+      { "name": "Alex P.", "rating": 5, "comment": "The perfect blend of tradition and modernity." },
+      { "name": "Lisa M.", "rating": 5, "comment": "Absolutely loved the cultural experiences." }
+    ],
+    "packageType": "Cultural"
+  },
+  {
+    "id": 6,
+    "name": "New York, USA",
+    "image": "usa.jpg",
+    "description": "The city that never sleeps offers iconic landmarks, world-class dining, and endless entertainment.",
+    "price": 1500,
+    "duration": "5 days",
+    "rating": 4.6,
+    "location": "USA",
+    "activities": ["Broadway Shows", "Museum Visits", "Statue of Liberty", "Central Park"],
+    "accommodations": ["Boutique Hotels", "Luxury Skyscrapers", "Budget Hostels"],
+    "transport": ["Flight: $400-800", "Subway Pass: $30", "Taxi: Variable"],
+    "reviews": [
+      { "name": "Michael B.", "rating": 4, "comment": "So much to do, never a dull moment!" },
+      { "name": "Emma R.", "rating": 5, "comment": "The energy of this city is incredible." }
+    ],
+    "packageType": "City"
+  },
+  {
+    "id": 4,
+    "name": "Swiss Alps, Switzerland",
+    "image": "swet.jpg",
+    "description": "Majestic mountains, pristine lakes, and charming villages await in the Swiss Alps.",
+    "price": 2200,
+    "duration": "8 days",
+    "rating": 4.8,
+    "location": "Switzerland",
+    "activities": ["Skiing", "Mountain Hiking", "Cable Car Rides", "Chocolate Tasting"],
+    "accommodations": ["Mountain Lodges", "Luxury Resorts", "Alpine Chalets"],
+    "transport": ["Flight: $900-1300", "Train Pass: $200", "Cable Car: $50/day"],
+    "reviews": [
+      { "name": "Robert L.", "rating": 5, "comment": "Breathtaking views everywhere you look!" },
+      { "name": "Maria K.", "rating": 5, "comment": "The perfect winter getaway." }
+    ],
+    "packageType": "Adventure"
+  },
+  {
+    "id": 5,
+    "name": "Safari, Kenya",
+    "image": "kenya.jpg",
+    "description": "Experience the wild beauty of Africa with incredible wildlife and vast landscapes.",
+    "price": 2500,
+    "duration": "10 days",
+    "rating": 4.9,
+    "location": "Kenya",
+    "activities": ["Game Drives", "Wildlife Photography", "Hot Air Balloon Safari", "Cultural Visits"],
+    "accommodations": ["Luxury Tented Camps", "Safari Lodges", "Eco-Cabins"],
+    "transport": ["Flight: $1200-1700", "Safari Jeep: $150/day", "Domestic Flights: $300"],
+    "reviews": [
+      { "name": "James W.", "rating": 5, "comment": "Saw the Big Five in their natural habitat!" },
+      { "name": "Sophia T.", "rating": 5, "comment": "An unforgettable experience from start to finish." }
+    ],
+    "packageType": "Wildlife"
+  },
+  {
+    "id": 105,
+    "name": "Maldives Luxury Escape",
+    "image": "maldives.jpg",
+    "description": "Crystal clear waters, overwater villas, and ultimate relaxation in the Maldives.",
+    "price": 3200,
+    "duration": "7 days",
+    "rating": 4.9,
+    "location": "Maldives",
+    "activities": ["Snorkeling", "Spa", "Private Beach Dinner"],
+    "accommodations": ["Overwater Villas", "Luxury Resorts"],
+    "transport": ["Flight: $1200-1800", "Speedboat: $100"],
+    "reviews": [
+      { "name": "Ayesha M.", "rating": 5, "comment": "Best honeymoon ever!" }
+    ],
+    "packageType": "Luxury"
+  },
+  {
+    "id": 106,
+    "name": "Bora Bora Paradise Retreat",
+    "image": "Bora.jpg",
+    "description": "Turquoise lagoons, iconic overwater bungalows, and romantic sunsets in Bora Bora.",
+    "price": 3500,
+    "duration": "8 days",
+    "rating": 4.8,
+    "location": "Bora Bora",
+    "activities": ["Lagoon Tour", "Private Island Picnic", "Snorkeling"],
+    "accommodations": ["Overwater Bungalows", "Luxury Resorts"],
+    "transport": ["Flight: $1400-2000", "Boat Transfer: $120"],
+    "reviews": [
+      { "name": "Rohan S.", "rating": 5, "comment": "Unforgettable luxury and beauty!" }
+    ],
+    "packageType": "Luxury"
+  }
+]
